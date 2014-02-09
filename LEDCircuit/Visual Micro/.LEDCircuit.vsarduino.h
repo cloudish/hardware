@@ -35,5 +35,5 @@ extern "C" void __cxa_pure_virtual() {;}
 
 #include "C:\Program Files (x86)\Arduino\hardware\arduino\avr\cores\arduino\arduino.h"
 #include "C:\Program Files (x86)\Arduino\hardware\arduino\avr\variants\standard\pins_arduino.h" 
-#include "C:\git\hardware\Blink.ino"
+#include "C:\git\hardware\LEDCircuit\LEDCircuit.ino"
 #endif
