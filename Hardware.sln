@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PulseWidthModulation", "Pul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TriColorLED", "TriColorLED\TriColorLED.vcxproj", "{C3564FF8-E40A-480F-ACFE-5B50C8890B2E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Siren", "Siren\Siren.vcxproj", "{CC0D55B3-77C5-4EF9-9EEA-66671CBA8F7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +35,10 @@ Global
 		{C3564FF8-E40A-480F-ACFE-5B50C8890B2E}.Debug|Win32.Build.0 = Debug|Win32
 		{C3564FF8-E40A-480F-ACFE-5B50C8890B2E}.Release|Win32.ActiveCfg = Release|Win32
 		{C3564FF8-E40A-480F-ACFE-5B50C8890B2E}.Release|Win32.Build.0 = Release|Win32
+		{CC0D55B3-77C5-4EF9-9EEA-66671CBA8F7F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC0D55B3-77C5-4EF9-9EEA-66671CBA8F7F}.Debug|Win32.Build.0 = Debug|Win32
+		{CC0D55B3-77C5-4EF9-9EEA-66671CBA8F7F}.Release|Win32.ActiveCfg = Release|Win32
+		{CC0D55B3-77C5-4EF9-9EEA-66671CBA8F7F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
